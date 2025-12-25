@@ -16,5 +16,4 @@ Với màn hình GT01: Dùng phần mềm GTwin V2 [Link](https://industry.panas
 
 ## Video Demo
 
-https://youtu.be/gljpb4TCUY8?si=1LuEsQNhKYvjf9dE
-
+https://www.youtube.com/playlist?list=PLHHwWhtu5u131YHCpSleT395UxTAlUtBI
