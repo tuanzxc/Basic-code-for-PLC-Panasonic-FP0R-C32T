@@ -1,0 +1,4 @@
+rút ra nháy tắt: 42
+cắm vào nháy tắt: 32
+rút ra nháy bật: 14, 23, 41, 43, 44
+cắm vào nháy bật: 13, 24, 33, 31, 34
