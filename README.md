@@ -4,6 +4,46 @@
 
 Các bài tập do Nguyễn Viết Tuấn - MSV 22001363 thực hiện trong môn học Đo lường và điều khiển trong công nghiệp, lớp K67 Kỹ thuật Điện tử và Tin học, trường Đại học Khoa học tự nhiên, Đại học Quốc gia Hà Nội.
 
+## Danh sách bài tập
+
+2, Rơle trong PLC
+
+3, Công tắc và cuộn dây
+
+4, Các phép toán logic
+
+5, Mô phỏng đèn cầu thang
+
+6, Các lệnh cơ bản trên PLC FP0R - C32T
+
+7, Hàm người dùng trong lập trình PLC
+
+8, So sánh từ 4 bit
+
+9, Mạch đảo từ nhị phân
+
+10, Hợp kênh, phân kênh
+
+11, Kết nối PLC và LED 7 đoạn
+
+12, Mã hóa, giải mã trên PLC
+
+13, Vận hành còi
+
+15, Sử dụng bộ định thời của PLC
+
+16, Sử dụng bộ đếm của PLC
+
+17, Màn hình GT01 - HMI
+
+18, Bộ đếm tốc độ cao trong PLC Panasonic
+
+19, Sử dụng encoder xoay với PLC
+
+20, Phát xung
+
+21, Điều chế độ rộng xung với PLC
+
 ## Cách sử dụng
 
 B1: Kết nối PLC với các linh kiện tương ứng với mỗi bài như nút bấm, đèn, màn hình,...
