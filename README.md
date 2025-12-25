@@ -2,7 +2,7 @@
 
 ## Tác giả
 
-Dự án cuối kỳ do Nguyễn Viết Tuấn - MSV 22001363 thực hiện trong môn học Đo lường và điều khiển trong công nghiệp, lớp K67 Kỹ thuật Điện tử và Tin học, trường Đại học Khoa học tự nhiên, Đại học Quốc gia Hà Nội.
+Các bài tập do Nguyễn Viết Tuấn - MSV 22001363 thực hiện trong môn học Đo lường và điều khiển trong công nghiệp, lớp K67 Kỹ thuật Điện tử và Tin học, trường Đại học Khoa học tự nhiên, Đại học Quốc gia Hà Nội.
 
 ## Cách sử dụng
 
