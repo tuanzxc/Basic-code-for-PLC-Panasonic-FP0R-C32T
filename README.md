@@ -10,9 +10,9 @@ B1: Kết nối PLC với các linh kiện tương ứng với mỗi bài như n
 
 B2: Với phần mềm lập trình
 
-Với PLC FP0R - C32T: Dùng phần mềm FPwin Pro 7 \[Link](https://industry.panasonic.eu/products/automation-devices-solutions/programmable-logic-controllers-plc/plc-software/programming-software-control-fpwin-pro) để mở các file .pro; Với bài 6, dùng phần mềm FPwin GR V2 \[Link](https://industry.panasonic.com/global/en/products/fasys/plc/software/fpwingr7) để mở các file .fp
+Với PLC FP0R - C32T: Dùng phần mềm FPwin Pro 7 [Link](https://industry.panasonic.eu/products/automation-devices-solutions/programmable-logic-controllers-plc/plc-software/programming-software-control-fpwin-pro) để mở các file .pro; Với bài 6, dùng phần mềm FPwin GR V2 [Link](https://industry.panasonic.com/global/en/products/fasys/plc/software/fpwingr7) để mở các file .fp
 
-Với màn hình GT01: Dùng phần mềm GTwin V2 \[Link](https://industry.panasonic.com/global/en/products/fasys/hmi/software/gtwin) để mở các file .IOP
+Với màn hình GT01: Dùng phần mềm GTwin V2 [Link](https://industry.panasonic.com/global/en/products/fasys/hmi/software/gtwin) để mở các file .IOP
 
 ## Video Demo
 
